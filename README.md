@@ -1,36 +1,11 @@
-Project Xylophone Master - Flutter Xylophone App
+# xylophone
+### Inspired by Angela by App Brewery
+https://www.appbrewery.co/courses
 
-Xylophone Master App
+How to incorporate open source libraries of code into your project using Flutter Packages.  
+How to play sound on both iOS and Android.  
+How to generate repeated user interface Widgets.  
+How to use Dart functions that can take input arguments as well as return an output.  
 
-Welcome to the Xylophone Master repository! This repository contains the code for a musical app built using Flutter. The app allows users to play different musical notes by tapping on colorful bars, simulating a xylophone experience.
-
-Features
-Interactive xylophone bars that produce musical notes when tapped.
-Beautiful and vibrant user interface for an engaging experience.
-Realistic sound effects to mimic a real xylophone.
-Support for both Android and iOS devices.
-Installation
-Prerequisites:
-
-Flutter SDK installed. If you haven't already, you can download it from the official Flutter website.
-A code editor such as Visual Studio Code or Android Studio with the Flutter plugin installed.
-
-How to Use
-Launching the App:
-
-Once the app is running on your device/emulator, you'll see the xylophone bars displayed on the screen.
-
-Playing Notes:
-
-Tap on any of the colorful bars to play a musical note.
-Experiment with tapping different bars to create your melody!
-Volume Control:
-
-Adjust your device's volume to control the loudness of the musical notes.
-Enjoy the Music:
-
-Have fun creating music with the Xylophone Master app!
-
-
-https://github.com/musawir696/xylophone-master-project-flutter-Udemy-/assets/112896428/21722004-d6c9-4144-b4ac-ccedc554468f
-
+![My Post](https://user-images.githubusercontent.com/16830594/134807338-cc6df9e7-06bb-4e0b-baf7-9f07e3ef8770.png)
+https://youtu.be/WH2d93rfa0s
